@@ -1,6 +1,8 @@
 body{
     font-family: 'Open Sans', sans-serif;
-    background-image:url("https://wallpaperaccess.com/full/654513.jpg");
+    background-image: url("https://wallpaperaccess.com/full/654513.jpg");
+    background-size: cover;
+    background-position: top center;
 }
 header{
     color: #eaedef;
